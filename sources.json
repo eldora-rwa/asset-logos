@@ -1,0 +1,50 @@
+{
+  "stocks/ABBV.svg": {
+    "symbol": "ABBV",
+    "name": "AbbVie Inc.",
+    "resolvedVia": "logoapi.sh",
+    "source": "https://www.abbvie.com",
+    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ABNB.svg": {
+    "symbol": "ABNB",
+    "name": "Airbnb, Inc.",
+    "resolvedVia": "logoapi.sh",
+    "source": "https://www.airbnb.com/",
+    "license": "UNVERIFIED — served from Airbnb's own site, likely a trademark asset, not CC0. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ACN.svg": {
+    "symbol": "ACN",
+    "name": "Accenture PLC",
+    "resolvedVia": "logoapi.sh",
+    "source": "https://www.accenture.com",
+    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ADI.svg": {
+    "symbol": "ADI",
+    "name": "Analog Devices, Inc.",
+    "resolvedVia": "logoapi.sh",
+    "source": "https://commons.wikimedia.org/wiki/File:Analog_Devices_Logo.svg",
+    "license": "UNVERIFIED — check the file's own license tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ADP.svg": {
+    "symbol": "ADP",
+    "name": "Automatic Data Processing, Inc.",
+    "resolvedVia": "logoapi.sh",
+    "source": "https://mediacenter.adp.com/images/logo-adp.svg",
+    "license": "UNVERIFIED — served from ADP's own media center, likely a trademark asset, not CC0. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/AKAM.svg": {
+    "symbol": "AKAM",
+    "name": "Akamai Technologies, Inc.",
+    "resolvedVia": "logoapi.sh",
+    "source": "https://www.akamai.com/",
+    "license": "UNVERIFIED — served from Akamai's own site, likely a trademark asset, not CC0. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  }
+}
