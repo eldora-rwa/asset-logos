@@ -281,10 +281,24 @@
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/SKHY.svg": {
+    "symbol": "SKHY",
+    "name": "SK hynix Inc. American Depositary Shares",
+    "source": "https://github.com/logoapi/logo-api/blob/main/logos/sk-hynix.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/SNOW.svg": {
     "symbol": "SNOW",
     "name": "Snowflake Inc.",
     "source": "https://github.com/logoapi/logo-api/blob/main/tickers/SNOW.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/SPOT.svg": {
+    "symbol": "SPOT",
+    "name": "Spotify Technology S.A.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/logos/spotify-icon.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
