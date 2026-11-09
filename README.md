@@ -15,9 +15,13 @@ forever and only changes when the client's reference is bumped.
 ## Layout
 
 ```
-stocks/<TICKER>.svg     # Dinari + Bitget Reality tokenized stocks, e.g. AAPL.svg
-crypto/<SYMBOL>.svg     # Bitget base coins + Hyperliquid coins, e.g. BTC.svg
+stocks/<TICKER>.svg|.png|.jpg   # Dinari + Bitget Reality tokenized stocks, e.g. AAPL.svg
+crypto/<SYMBOL>.svg|.png|.jpg   # Bitget base coins + Hyperliquid coins, e.g. BTC.svg
 ```
+
+Most files are `.svg`; a few are `.png`/`.jpg` where that was the only
+format the source actually served (Bitget's own CDN, mainly) — the app's
+resolver needs to try the file extension it finds, not assume `.svg`.
 
 Filename = the exact key the app already looks up by (uppercase ticker for
 stocks, uppercase base coin/coin name for crypto). Split into two folders so
@@ -39,6 +43,26 @@ logo sources (`app.hyperliquid.xyz/coins/`, then the `spothq/
 cryptocurrency-icons` CDN fallback — see `CoinIcon.tsx`): all 368 resolve.
 Nothing to add here until one of those sources actually goes dark for a
 specific coin.
+
+**Bitget's own markets/stocks page (`bitget.com/.../markets/stocks`) is a
+first-party source, not a third party.** It's a client-rendered page with no
+dedicated public REST docs, but its own JS bundle calls
+`www.bitget.com/v1/spot/public/getCoinChainList` (crypto + many RWA tickers,
+keyed by `coinName`, with `imgUrl` + `fullName`) and
+`www.bitget.com/v1/mix/market/rwa/multiLanAll` (RWA company names, no image).
+38 stock logos here came from `getCoinChainList`, filtered to entries whose
+`fullName` carries an explicit `RWA`/`STOCK` marker or a real company-name
+match against Dinari's own name for that ticker — **never** a bare
+ticker-equals-ticker "match" with no corroborating text, which is exactly how
+three high-confidence-looking hits turned out wrong during this pass: `GBTC`
+→ "Green Bitcoin" (an unrelated meme coin, not Grayscale's trust), `NAKA` →
+"Nakamoto Games" (an unrelated gaming token, not the Bitcoin-treasury stock),
+`VRTX` → "Vertex Protocol" (an unrelated DeFi project, not Vertex
+Pharmaceuticals). All three were dropped. 18 further candidates (`STT`,
+`CIFR`, `IBKR`, `BWET`, `VKTX`, `HLT`, `MSCI`, `MDT`, `DHR`, `HUM`, `VLO`,
+`CVNA`, `BIRK`, `CWEN`, `VT`, `CRK`, `SYBT`, `JBLU`) passed the same vetting
+but their image URLs 403'd on a plain fetch (likely referrer-gated) and were
+left unresolved rather than worked around.
 
 ## Adding a logo
 

@@ -1,9 +1,422 @@
 {
+  "crypto/1000BONK.png": {
+    "symbol": "1000BONK",
+    "name": "1000BONK",
+    "source": "https://img.bgstatic.com/multiLang/web/23b9328cd8b85d1878eeda810a0b9150.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/1000CAT.jpeg": {
+    "symbol": "1000CAT",
+    "name": "Simon's Cat",
+    "source": "https://img.bgstatic.com/multiLang/web/16c00711578dd11e9b0e4e11fcbfc2bd.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/1INCH.png": {
+    "symbol": "1INCH",
+    "name": "1inch Network",
+    "source": "https://img.bgstatic.com/multiLang/coin_img/733e3c9630ac409b2cfcec547c980a38.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/1MBABYDOGE.jpeg": {
+    "symbol": "1MBABYDOGE",
+    "name": "1MBABYDOGE",
+    "source": "https://img.bgstatic.com/multiLang/web/ec6ab2d8a8c53bbdf867c1b28e875706.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/1MCHEEMS.png": {
+    "symbol": "1MCHEEMS",
+    "name": "Cheems (cheems.pet)",
+    "source": "https://img.bgstatic.com/multiLang/web/6f664786cbe97f355610c36375f71f77.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/AKE.png": {
+    "symbol": "AKE",
+    "name": "AKEDO",
+    "source": "https://img.bgstatic.com/multiLang/web/d50f4b5a8b87cda9c63dda04a15160d6.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/AKT.jpg": {
+    "symbol": "AKT",
+    "name": "Akash Network",
+    "source": "https://img.bgstatic.com/multiLang/web/906d95d1490054ff0291aa0667185c07.jpg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/ALIGN.png": {
+    "symbol": "ALIGN",
+    "name": "Aligned",
+    "source": "https://img.bgstatic.com/multiLang/web/bdf255e714e9f0c6169c2a474819152e.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/ARX.jpg": {
+    "symbol": "ARX",
+    "name": "Arcium",
+    "source": "https://img.bgstatic.com/multiLang/web/4475fdd1cc1c5aa43e5623eb1704be4f.jpg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/AT.png": {
+    "symbol": "AT",
+    "name": "APRO",
+    "source": "https://img.bgstatic.com/multiLang/web/d79f92361c856861756d21093c87cf48.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/AXIS.jpg": {
+    "symbol": "AXIS",
+    "name": "Axis Robotics",
+    "source": "https://img.bgstatic.com/multiLang/web/3619b56d765b12abb24444dd8d942074.jpg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/AZTEC.png": {
+    "symbol": "AZTEC",
+    "name": "Aztec",
+    "source": "https://img.bgstatic.com/multiLang/web/75ab0cc55f762fe9e43c50696237a51a.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/BASED.png": {
+    "symbol": "BASED",
+    "name": "Based",
+    "source": "https://img.bgstatic.com/multiLang/web/15526be6d2c55b593d44d88ccc98e9ea.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/BEAT.png": {
+    "symbol": "BEAT",
+    "name": "Audiera",
+    "source": "https://img.bgstatic.com/multiLang/web/5483c830b3e2c55ff16fd9de6fef7d76.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/BILL.png": {
+    "symbol": "BILL",
+    "name": "Billions Network",
+    "source": "https://img.bgstatic.com/multiLang/web/d0c4f466a531505f76936f01e93c8214.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/BLEND.jpeg": {
+    "symbol": "BLEND",
+    "name": "Fluent",
+    "source": "https://img.bgstatic.com/multiLang/web/3b172f2457fc13500cbeb0efe22c3be7.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/BLUAI.png": {
+    "symbol": "BLUAI",
+    "name": "Bluwhale AI",
+    "source": "https://img.bgstatic.com/multiLang/web/ae180735eb9d74300108a8c617056563.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/BREV.png": {
+    "symbol": "BREV",
+    "name": "Brevis",
+    "source": "https://img.bgstatic.com/multiLang/web/ec799c06d2fd49b4be8dd8e4ceb88035.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/CAP.png": {
+    "symbol": "CAP",
+    "name": "CAP",
+    "source": "https://img.bgstatic.com/multiLang/web/9b4ddf0e9da910c003aa3e34dbecd729.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/CFG.png": {
+    "symbol": "CFG",
+    "name": "Centrifuge",
+    "source": "https://img.bgstatic.com/multiLang/web/5044d52d710b6d9968fece9272b70122.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/CHIP.png": {
+    "symbol": "CHIP",
+    "name": "USD.AI",
+    "source": "https://img.bgstatic.com/multiLang/web/e7aa1408cd60e76fd21ed9cc98fe6441.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/CNPY.png": {
+    "symbol": "CNPY",
+    "name": "Canopy",
+    "source": "https://img.bgstatic.com/multiLang/web/720efb2e2341761ba497e95d74b02d67.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "crypto/DASH.svg": {
     "symbol": "DASH",
     "name": "Dash",
     "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/dash.svg",
     "license": "CC0 1.0 Universal — confirmed via simple-icons own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/DEXE.png": {
+    "symbol": "DEXE",
+    "name": "DeXe",
+    "source": "https://img.bgstatic.com/multiLang/web/958751419582bc7c7b5f9eb7d3d1c2e0.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/DIA.png": {
+    "symbol": "DIA",
+    "name": "DIA",
+    "source": "https://img.bgstatic.com/multiLang/web/6514e66a563ef2c70948ad83f1fa39f6.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/DNA.png": {
+    "symbol": "DNA",
+    "name": "NeoSoul",
+    "source": "https://img.bgstatic.com/multiLang/web/e39dd7ff71c6326708e5598e0513fb6c.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/DOS.jpeg": {
+    "symbol": "DOS",
+    "name": "DAPPOS",
+    "source": "https://img.bgstatic.com/multiLang/web/0a61d91db862b23025ee5fb10cc279b1.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/EDGE.jpg": {
+    "symbol": "EDGE",
+    "name": "edgeX",
+    "source": "https://img.bgstatic.com/multiLang/web/227dcd8534ba407bba2b646ff5f8ba11.jpg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/ELSA.png": {
+    "symbol": "ELSA",
+    "name": "HeyElsa",
+    "source": "https://img.bgstatic.com/multiLang/web/542d9535a78bb56f1ea93b0e9ba351ca.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/ESP.png": {
+    "symbol": "ESP",
+    "name": "Espresso",
+    "source": "https://img.bgstatic.com/multiLang/web/2cf677972b6ee5ef2060958b9cca3ca1.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/EVAA.png": {
+    "symbol": "EVAA",
+    "name": "EVAA Protocol",
+    "source": "https://img.bgstatic.com/multiLang/web/fdd1e10b37d9cf88fdb3c20007a773e9.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/FIGHT.png": {
+    "symbol": "FIGHT",
+    "name": "FIGHT",
+    "source": "https://img.bgstatic.com/multiLang/web/4d9c47b6796a6101f83dad33e1911e5b.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/FLUID.png": {
+    "symbol": "FLUID",
+    "name": "Fluid",
+    "source": "https://img.bgstatic.com/multiLang/web/38e384f98102ecbeb4ddbb37d8a43234.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/FOLKS.png": {
+    "symbol": "FOLKS",
+    "name": "Folks Finance",
+    "source": "https://img.bgstatic.com/multiLang/web/16b56307385ddc51537abf5e14ba43cb.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/GAME2.png": {
+    "symbol": "GAME2",
+    "name": "GameBuild",
+    "source": "https://img.bgstatic.com/multiLang/web/0e04e01cb2fe881848f9485d42dbba4a.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/GENIUS.png": {
+    "symbol": "GENIUS",
+    "name": "Genius",
+    "source": "https://img.bgstatic.com/multiLang/web/9e05e06eafd1a0de5178070937ede1b6.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/GIGGLE.png": {
+    "symbol": "GIGGLE",
+    "name": "Giggle Fund",
+    "source": "https://img.bgstatic.com/multiLang/web/37ab51ef5d61ee1f2219cb7cdc125004.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/GRVT.png": {
+    "symbol": "GRVT",
+    "name": "Grvt",
+    "source": "https://img.bgstatic.com/multiLang/web/f01cedf5f2824cd1eec6e7f36970ef33.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/INX.png": {
+    "symbol": "INX",
+    "name": "Infinex",
+    "source": "https://img.bgstatic.com/multiLang/web/76e776f8c59da0632795bde47331037e.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/KAIO.jpeg": {
+    "symbol": "KAIO",
+    "name": "KAIO",
+    "source": "https://img.bgstatic.com/multiLang/web/a2f8615c2a86b71f47853ac479db356a.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/LYN.png": {
+    "symbol": "LYN",
+    "name": "Everlyn AI",
+    "source": "https://img.bgstatic.com/multiLang/web/edec3911e929f2a25ff47e0b288ea041.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/MANTRA.png": {
+    "symbol": "MANTRA",
+    "name": "MANTRA",
+    "source": "https://img.bgstatic.com/multiLang/web/a78da55f5ab40a077eb43d9ad749c928.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/MARSCOIN.png": {
+    "symbol": "MARSCOIN",
+    "name": "MARSCOIN",
+    "source": "https://img.bgstatic.com/multiLang/web/0f24513544e7601d1b7aa78e48677d8b.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/MAS.png": {
+    "symbol": "MAS",
+    "name": "MASSA",
+    "source": "https://img.bgstatic.com/multiLang/web/7aa5fb19d81947dd7832b6057fa98772.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/MAXEXCHANGE.png": {
+    "symbol": "MAXEXCHANGE",
+    "name": "MAX Exchange Token",
+    "source": "https://img.bgstatic.com/multiLang/coin_img/189f1e8215cebe03de9ecaf45e8363d4.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/MEGA.png": {
+    "symbol": "MEGA",
+    "name": "MegaETH",
+    "source": "https://img.bgstatic.com/multiLang/web/c3bb780c728d3a4e296f521a1b32a302.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/NES.png": {
+    "symbol": "NES",
+    "name": "Nesa",
+    "source": "https://img.bgstatic.com/multiLang/web/24b1a50bfd1a9f974d8d842bd39439de.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/NEX.png": {
+    "symbol": "NEX",
+    "name": "Nexus",
+    "source": "https://img.bgstatic.com/multiLang/web/46e7d32cc29aa5b2be10307f27ae1a5e.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/O.jpeg": {
+    "symbol": "O",
+    "name": "o1.exchange",
+    "source": "https://img.bgstatic.com/multiLang/web/755ea851c0845534f8d8c13a2880f960.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/OPG.png": {
+    "symbol": "OPG",
+    "name": "OpenGradient",
+    "source": "https://img.bgstatic.com/multiLang/web/9edea4a45b2a8ed1f848b817c20f03cc.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/PIEVERSE.png": {
+    "symbol": "PIEVERSE",
+    "name": "Pieverse",
+    "source": "https://img.bgstatic.com/multiLang/web/0f54e0d88fcbdda1cfa56ff5da992779.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/POPCAT.jpg": {
+    "symbol": "POPCAT",
+    "name": "Popcat",
+    "source": "https://img.bgstatic.com/multiLang/web/c72cec87e1d249dc5b39b5ff46828768.jpg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/PRL.png": {
+    "symbol": "PRL",
+    "name": "Perle",
+    "source": "https://img.bgstatic.com/multiLang/web/21bdf2a8623a983e772fef1d525c59dd.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/PROS.png": {
+    "symbol": "PROS",
+    "name": "Pharos",
+    "source": "https://img.bgstatic.com/multiLang/web/dfa166d0350eb5c7ec26047f0e9f126e.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/RE.png": {
+    "symbol": "RE",
+    "name": "Re Protocol",
+    "source": "https://img.bgstatic.com/multiLang/web/16692af7b7b1d09615b2061524153f84.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/RONIN.png": {
+    "symbol": "RONIN",
+    "name": "Ronin",
+    "source": "https://img.bgstatic.com/multiLang/coin_img/00c3356a6bb764da5426e4ffe8f0f631.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/RT1.jpeg": {
+    "symbol": "RT1",
+    "name": "Real Token",
+    "source": "https://img.bgstatic.com/multiLang/web/bfcff3ec1f0fb69eaac4af9e116e1f7e.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/SLX.png": {
+    "symbol": "SLX",
+    "name": "Solstice",
+    "source": "https://img.bgstatic.com/multiLang/web/34cb22716ff691d7244893e82926dfae.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/SPX.png": {
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "source": "https://img.bgstatic.com/multiLang/web/643886bbc8d633c7d4b946a49c13b37c.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/SQD.png": {
+    "symbol": "SQD",
+    "name": "Subsquid",
+    "source": "https://img.bgstatic.com/multiLang/web/9bebe407ffac11be6c2b4c866bf621ee.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "crypto/STEEM.svg": {
@@ -13,6 +426,69 @@
     "license": "CC0 1.0 Universal — confirmed via simple-icons own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "crypto/STONK.png": {
+    "symbol": "STONK",
+    "name": "STONK",
+    "source": "https://img.bgstatic.com/multiLang/web/a5d2cae7243993cb30cd2ab5eb01eb32.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/SWARM.jpeg": {
+    "symbol": "SWARM",
+    "name": "SwarmBase",
+    "source": "https://img.bgstatic.com/multiLang/web/e0806d51ab4224bb77a8a1b842c4e80e.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/TAIKO.jpeg": {
+    "symbol": "TAIKO",
+    "name": "Taiko",
+    "source": "https://img.bgstatic.com/multiLang/web/8e4611baea347fe84e1073a5f8026ab4.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/TMX.png": {
+    "symbol": "TMX",
+    "name": "TermMax",
+    "source": "https://img.bgstatic.com/multiLang/web/4bd4e6e42ddfbdb6b0df3878690a9429.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/TWT.png": {
+    "symbol": "TWT",
+    "name": "Trust Wallet Token",
+    "source": "https://img.bgstatic.com/multiLang/coin_img/1b1beb8cb0e8f77bd6728ea8d6877193.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/UB.png": {
+    "symbol": "UB",
+    "name": "Unibase",
+    "source": "https://img.bgstatic.com/multiLang/web/3663433c23211983a19c106ec44ce702.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/VVV.png": {
+    "symbol": "VVV",
+    "name": "Venice Token",
+    "source": "https://img.bgstatic.com/multiLang/web/d2a1ea86862779a0c024d5cbafeba2a5.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/WET.png": {
+    "symbol": "WET",
+    "name": "Humidifi",
+    "source": "https://img.bgstatic.com/multiLang/web/93d39f846c900e563da49677926847af.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/XAN.png": {
+    "symbol": "XAN",
+    "name": "Anoma",
+    "source": "https://img.bgstatic.com/multiLang/web/20e81204e924eca3106f54eac375b576.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "crypto/XMR.svg": {
     "symbol": "XMR",
     "name": "Monero",
@@ -20,11 +496,53 @@
     "license": "CC-BY-SA-4.0 — this ONE icon overrides simple-icons repo-wide CC0 default (per its own data entry). Redistribution requires attribution + share-alike, NOT a blanket CC0 grant like the rest of this repo.",
     "fetchedAt": "2026-11-09"
   },
+  "crypto/XVS.jpeg": {
+    "symbol": "XVS",
+    "name": "Venus",
+    "source": "https://img.bgstatic.com/multiLang/web/52ac4960fad427552711b212df21eedf.jpeg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "crypto/ZEC.svg": {
     "symbol": "ZEC",
     "name": "Zcash",
     "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/zcash.svg",
     "license": "CC0 1.0 Universal — confirmed via simple-icons own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/ZEST.png": {
+    "symbol": "ZEST",
+    "name": "ZEST",
+    "source": "https://img.bgstatic.com/multiLang/web/e8489354d85055acebe85c69d04a7265.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/preSPCX.png": {
+    "symbol": "preSPCX",
+    "name": "preSPAX",
+    "source": "https://img.bgstatic.com/multiLang/web/a7b9b1ad8a494a8e5a3c20144ba4d27f.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/哈基米.png": {
+    "symbol": "哈基米",
+    "name": "哈基米",
+    "source": "https://img.bgstatic.com/multiLang/web/dafb57bed641cf172ca79fa778fc1b96.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/牛来.png": {
+    "symbol": "牛来",
+    "name": "牛来",
+    "source": "https://img.bgstatic.com/multiLang/web/cc510a65a0882ea0bb77055c4f1a2159.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/龙虾.png": {
+    "symbol": "龙虾",
+    "name": "龙虾",
+    "source": "https://img.bgstatic.com/multiLang/web/25e6dc13626902dba5edfd5a61e50bae.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com), not a CC0 grant; the underlying project/company retains its mark. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/ABBV.svg": {
@@ -92,11 +610,32 @@
     "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/AMZN.png": {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/8cbdd6aa07649156158b178b54a0277f.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/APP.svg": {
     "symbol": "APP",
     "name": "Applovin Corporation Class A Common Stock",
     "source": "https://applovin.com/",
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ARM.png": {
+    "symbol": "ARM",
+    "name": "Arm Holdings plc",
+    "source": "https://img.bgstatic.com/multiLang/web/7e69570009a6be546f72557ab8a9d9b5.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ASML.png": {
+    "symbol": "ASML",
+    "name": "ASML",
+    "source": "https://img.bgstatic.com/multiLang/web/b936e1e2c78bf61603e53daa0041b0fa.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/AXP.svg": {
@@ -125,6 +664,13 @@
     "name": "Boeing Company",
     "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/boeing.svg",
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BABA.png": {
+    "symbol": "BABA",
+    "name": "Alibaba",
+    "source": "https://img.bgstatic.com/multiLang/web/dc23a971c3e3923e5c08eff26a400641.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/BAC.svg": {
@@ -190,6 +736,13 @@
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/CEG.png": {
+    "symbol": "CEG",
+    "name": "Constellation Energy",
+    "source": "https://img.bgstatic.com/multiLang/web/7356083c4f264123bc2db1d517285373.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/CI.svg": {
     "symbol": "CI",
     "name": "The Cigna Group",
@@ -202,6 +755,13 @@
     "name": "Ciena Corporation",
     "source": "https://en.wikipedia.org/wiki/File:Ciena_logo.svg",
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CLW.png": {
+    "symbol": "CLW",
+    "name": "Clearwater Paper Corporation",
+    "source": "https://img.bgstatic.com/multiLang/web/526c1b6e84b6940d452e2f39400ba5f1.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/CMI.svg": {
@@ -218,6 +778,20 @@
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/COIN.png": {
+    "symbol": "COIN",
+    "name": "Coinbase Global, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/5821d8a471ab74e3e18f934211d35452.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CRCL.png": {
+    "symbol": "CRCL",
+    "name": "Circle Internet",
+    "source": "https://img.bgstatic.com/multiLang/web/c54870bc92ef6afe32273f41c4e410a5.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/CRM.svg": {
     "symbol": "CRM",
     "name": "Salesforce, Inc.",
@@ -230,6 +804,13 @@
     "name": "CoreWeave, Inc.",
     "source": "https://github.com/logoapi/logo-api/blob/main/tickers/CRWV.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CSCO.png": {
+    "symbol": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/97664a155246a30088dcfc3fb8fc5fd1.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/DASH.svg": {
@@ -258,6 +839,13 @@
     "name": "Dell Technologies Inc.",
     "source": "https://dell.com/",
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/DFDV.png": {
+    "symbol": "DFDV",
+    "name": "DeFi Development",
+    "source": "https://img.bgstatic.com/multiLang/web/86415c1c5bdd24801844c0cd4a9255ae.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/EBAY.svg": {
@@ -316,11 +904,32 @@
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/FUTU.png": {
+    "symbol": "FUTU",
+    "name": "Futu Holdings Limited",
+    "source": "https://img.bgstatic.com/multiLang/web/868d16493e9cbea5841c6126e1534a2c.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/FWDI.png": {
+    "symbol": "FWDI",
+    "name": "Forward Industries, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/85f917992b01f36511da553b4431941e.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/GDDY.svg": {
     "symbol": "GDDY",
     "name": "GoDaddy Inc",
     "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/godaddy.svg",
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/GE.png": {
+    "symbol": "GE",
+    "name": "GE Aerospace",
+    "source": "https://img.bgstatic.com/multiLang/web/8b1c12459a7bcdfcc1e6459dda7448fe.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/GEV.svg": {
@@ -344,6 +953,20 @@
     "license": "UNVERIFIED — an earlier structural heuristic mislabelled this CC0; could not confirm against logoapi/logo-api, needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/GME.png": {
+    "symbol": "GME",
+    "name": "GameStop Corp.",
+    "source": "https://img.bgstatic.com/multiLang/web/d104b51444d51e07cba90d1212d71f73.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/GOOGL.png": {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/0a8caad162a5d9b8f3ee7460d3527e2c.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/GRMN.svg": {
     "symbol": "GRMN",
     "name": "Garmin Ltd",
@@ -356,6 +979,20 @@
     "name": "Goldman Sachs Group Inc.",
     "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/goldmansachs.svg",
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/HD.png": {
+    "symbol": "HD",
+    "name": "Home Depot",
+    "source": "https://img.bgstatic.com/multiLang/web/d30d6350384f0d3a7aca1bbb6d439493.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/HOOD.png": {
+    "symbol": "HOOD",
+    "name": "Robinhood Markets",
+    "source": "https://img.bgstatic.com/multiLang/web/1c354a1992a89db57b9b9096e523067f.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/HPE.svg": {
@@ -393,11 +1030,39 @@
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/ITOT.png": {
+    "symbol": "ITOT",
+    "name": "iShares Core S&P Total US Stock Market ETF",
+    "source": "https://img.bgstatic.com/multiLang/web/6d4844841ae5049aa366cb688a4a3eec.svg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/JD.png": {
+    "symbol": "JD",
+    "name": "JD.com",
+    "source": "https://img.bgstatic.com/multiLang/web/468886b544a32b2a0f9e5303f19cfc05.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/KO.svg": {
     "symbol": "KO",
     "name": "Coca-Cola Company",
     "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/cocacola.svg",
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/LEN.png": {
+    "symbol": "LEN",
+    "name": "Lennar",
+    "source": "https://img.bgstatic.com/multiLang/web/9de8489ca853f693f24ead9478eedc0d.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/LLY.png": {
+    "symbol": "LLY",
+    "name": "Eli Lilly &",
+    "source": "https://img.bgstatic.com/multiLang/web/7ef587c9ecca03008dff7108d988985b.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/LUV.svg": {
@@ -421,6 +1086,20 @@
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/MCD.png": {
+    "symbol": "MCD",
+    "name": "McDonald's Corporation",
+    "source": "https://img.bgstatic.com/multiLang/web/0d9ec47cb150b51475317ca576f7c4a0.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/META.png": {
+    "symbol": "META",
+    "name": "Meta Platforms, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/a7c4291070ca8665891ed5320a5d9691.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/MMM.svg": {
     "symbol": "MMM",
     "name": "3M Company",
@@ -435,11 +1114,39 @@
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/MRVL.png": {
+    "symbol": "MRVL",
+    "name": "Marvell Technology",
+    "source": "https://img.bgstatic.com/multiLang/web/3c05eda89cb26f8391c5a3a8da96316b.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/MSFT.png": {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "source": "https://img.bgstatic.com/multiLang/web/766aeec201e7aa196ee499eb6ffb3dcf.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/MSTR.png": {
+    "symbol": "MSTR",
+    "name": "Strategy",
+    "source": "https://img.bgstatic.com/multiLang/web/b308f51dd78d5c25fc2dc9854c5081bb.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/MU.svg": {
     "symbol": "MU",
     "name": "Micron Technology, Inc.",
     "source": "https://github.com/logoapi/logo-api/blob/main/tickers/MU.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/NFLX.png": {
+    "symbol": "NFLX",
+    "name": "Netflix, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/e0b3e1b3d92cb70f972d1745618e9006.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/NKE.svg": {
@@ -454,6 +1161,13 @@
     "name": "NetApp, Inc. Common Stock",
     "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/netapp.svg",
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/NVDA.png": {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "source": "https://img.bgstatic.com/multiLang/web/7e4ddfe087d1833bc0af59c2579589b5.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/ORCL.svg": {
@@ -477,6 +1191,20 @@
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/PEP.jpg": {
+    "symbol": "PEP",
+    "name": "Pepsi",
+    "source": "https://img.bgstatic.com/multiLang/web/a4237731380e087c5afe628aef0dfe2f.jpg",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/PLTR.png": {
+    "symbol": "PLTR",
+    "name": "Palantir Technologies",
+    "source": "https://img.bgstatic.com/multiLang/web/794fcb1643413227aeb6db90c8c6a63e.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/QCOM.svg": {
     "symbol": "QCOM",
     "name": "QUALCOMM Incorporated",
@@ -484,11 +1212,32 @@
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/QQQ.png": {
+    "symbol": "QQQ",
+    "name": "Inves",
+    "source": "https://img.bgstatic.com/multiLang/web/583aa330e00b0be54cb0c61b6f409fe0.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/RBLX.svg": {
     "symbol": "RBLX",
     "name": "Roblox Corporation",
     "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/roblox.svg",
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/RDDT.png": {
+    "symbol": "RDDT",
+    "name": "Reddit, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/9114a01d2654f67d7e33427824149085.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/RIOT.png": {
+    "symbol": "RIOT",
+    "name": "Riot Platforms, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/daf58943595b6b4849a7fb9058cbe04d.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/ROK.svg": {
@@ -524,6 +1273,13 @@
     "name": "SK hynix Inc. American Depositary Shares",
     "source": "https://github.com/logoapi/logo-api/blob/main/logos/sk-hynix.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/SLV.png": {
+    "symbol": "SLV",
+    "name": "iShares Silver Trust",
+    "source": "https://img.bgstatic.com/multiLang/web/0275727a3e88340c36e35e5d3f0e6445.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/SNOW.svg": {
@@ -575,6 +1331,13 @@
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/TSLA.png": {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "source": "https://img.bgstatic.com/multiLang/web/0f1663849e08c76bb980aa19ae2abdc8.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/TSM.svg": {
     "symbol": "TSM",
     "name": "Taiwan Semiconductor Manufacturing Company Limited",
@@ -596,11 +1359,32 @@
     "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/UNH.png": {
+    "symbol": "UNH",
+    "name": "UNITEDHEALTH",
+    "source": "https://img.bgstatic.com/multiLang/web/cf75a5afac76b91c007cecfc40952fd3.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/V.svg": {
     "symbol": "V",
     "name": "Visa Inc.",
     "source": "https://github.com/logoapi/logo-api/blob/main/tickers/V.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/VTI.png": {
+    "symbol": "VTI",
+    "name": "Vanguard Total Stock Market ETF",
+    "source": "https://img.bgstatic.com/multiLang/web/8c4abfc4925fcc1fa18439d5040f8861.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/VXUS.png": {
+    "symbol": "VXUS",
+    "name": "Vanguard Total International Stock ETF",
+    "source": "https://img.bgstatic.com/multiLang/web/8c4abfc4925fcc1fa18439d5040f8861.png",
+    "license": "UNVERIFIED — hosted on Bitget's own CDN (img.bgstatic.com) as part of its public markets/stocks page, but still the trademark logo of the underlying company/fund, not a CC0 grant. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/WFC.svg": {
