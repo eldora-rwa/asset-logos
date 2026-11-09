@@ -46,5 +46,243 @@
     "source": "https://www.akamai.com/",
     "license": "UNVERIFIED — served from Akamai's own site, likely a trademark asset, not CC0. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
+  },
+  "stocks/ALAB.svg": {
+    "symbol": "ALAB",
+    "name": "Astera Labs, Inc. Common Stock",
+    "source": "https://www.asteralabs.com/wp-content/uploads/2024/07/logo__astera-labs-colored.svg",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ALB.svg": {
+    "symbol": "ALB",
+    "name": "Albemarle Corporation",
+    "source": "https://commons.wikimedia.org/wiki/File:Albermarle_Corporation.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/APP.svg": {
+    "symbol": "APP",
+    "name": "Applovin Corporation Class A Common Stock",
+    "source": "https://applovin.com/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/AXP.svg": {
+    "symbol": "AXP",
+    "name": "American Express Company",
+    "source": "https://www.aexp-static.com/cdaas/one/statics/axp-static-assets/1.8.0/package/dist/img/logos/dls-logo-stack.svg",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/AZN.svg": {
+    "symbol": "AZN",
+    "name": "AstraZeneca PLC",
+    "source": "https://commons.wikimedia.org/wiki/File:Astrazeneca_text_logo.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/AZO.svg": {
+    "symbol": "AZO",
+    "name": "AutoZone, Inc.",
+    "source": "https://www.autozone.com",
+    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BAC.svg": {
+    "symbol": "BAC",
+    "name": "Bank of America Corporation",
+    "source": "https://www.bankofamerica.com",
+    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BALL.svg": {
+    "symbol": "BALL",
+    "name": "Ball Corporation",
+    "source": "https://commons.wikimedia.org/wiki/File:Ball_Corporation_logo_2024.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BAX.svg": {
+    "symbol": "BAX",
+    "name": "Baxter International Inc.",
+    "source": "https://commons.wikimedia.org/wiki/File:Baxter.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BIIB.svg": {
+    "symbol": "BIIB",
+    "name": "Biogen Inc. Common Stock",
+    "source": "https://commons.wikimedia.org/wiki/File:Biogen_logo.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BKNG.svg": {
+    "symbol": "BKNG",
+    "name": "Booking Holdings Inc. Common Stock",
+    "source": "https://www.bookingholdings.com/wp-content/themes/booking-group/img/svg/bkng_global-desktop-logoblack.svg",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BMY.svg": {
+    "symbol": "BMY",
+    "name": "Bristol-Myers Squibb Co.",
+    "source": "https://commons.wikimedia.org/wiki/File:Bristol-Myers_Squibb_logo.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BSX.svg": {
+    "symbol": "BSX",
+    "name": "Boston Scientific Corp.",
+    "source": "https://www.bostonscientific.com/content/dam/logo-bsc.svg",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CBRE.svg": {
+    "symbol": "CBRE",
+    "name": "CBRE GROUP, INC.",
+    "source": "https://www.cbre.com/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CI.svg": {
+    "symbol": "CI",
+    "name": "The Cigna Group",
+    "source": "https://www.cigna.com/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CIEN.svg": {
+    "symbol": "CIEN",
+    "name": "Ciena Corporation",
+    "source": "https://en.wikipedia.org/wiki/File:Ciena_logo.svg",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CMI.svg": {
+    "symbol": "CMI",
+    "name": "Cummins Inc.",
+    "source": "https://commons.wikimedia.org/wiki/File:Cummins_logo.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/COHR.svg": {
+    "symbol": "COHR",
+    "name": "Coherent Corp.",
+    "source": "https://www.coherent.com/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CRM.svg": {
+    "symbol": "CRM",
+    "name": "Salesforce, Inc.",
+    "source": "https://www.salesforce.com/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CRWV.svg": {
+    "symbol": "CRWV",
+    "name": "CoreWeave, Inc. Class A Common Stock",
+    "source": "https://www.coreweave.com",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/DASH.svg": {
+    "symbol": "DASH",
+    "name": "DoorDash, Inc. Class A Common Stock",
+    "source": "https://www.doordash.com/about/",
+    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/DD.svg": {
+    "symbol": "DD",
+    "name": "DuPont de Nemours, Inc. Common Stock",
+    "source": "https://commons.wikimedia.org/wiki/File:DuPont_logo.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/DDOG.svg": {
+    "symbol": "DDOG",
+    "name": "Datadog, Inc. Class A Common Stock",
+    "source": "https://www.datadoghq.com/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/DELL.svg": {
+    "symbol": "DELL",
+    "name": "Dell Technologies Inc.",
+    "source": "https://dell.com/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/EBAY.svg": {
+    "symbol": "EBAY",
+    "name": "eBay Inc. Common Stock",
+    "source": "https://commons.wikimedia.org/wiki/File:EBay_logo.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/FIG.svg": {
+    "symbol": "FIG",
+    "name": "Figma, Inc.",
+    "source": "https://www.figma.com/brand/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/GE.svg": {
+    "symbol": "GE",
+    "name": "GE Aerospace",
+    "source": "https://www.ge.com/brand/",
+    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/GEV.svg": {
+    "symbol": "GEV",
+    "name": "GE Vernova Inc.",
+    "source": "https://www.gevernova.com/themes/custom/ge_vernova_unified/logo.svg",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/GLW.svg": {
+    "symbol": "GLW",
+    "name": "Corning Incorporated",
+    "source": "https://commons.wikimedia.org/wiki/File:Corning_Incorporated_Logo.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/GM.svg": {
+    "symbol": "GM",
+    "name": "General Motors Company",
+    "source": "https://www.gm.com",
+    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/HPE.svg": {
+    "symbol": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "source": "https://commons.wikimedia.org/wiki/File:Hewlett_Packard_Enterprise_logo_2025.svg",
+    "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/IBM.svg": {
+    "symbol": "IBM",
+    "name": "International Business Machines Corporation",
+    "source": "https://www.ibm.com/",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/INTC.svg": {
+    "symbol": "INTC",
+    "name": "Intel Corporation Common Stock",
+    "source": "https://www.intel.com",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/INTU.svg": {
+    "symbol": "INTU",
+    "name": "Intuit Inc. Common Stock",
+    "source": "https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/intuit-rebrand-logo-dark.svg",
+    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
   }
 }
