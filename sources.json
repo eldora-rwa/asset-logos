@@ -1,9 +1,23 @@
 {
+  "stocks/ABBV.svg": {
+    "symbol": "ABBV",
+    "name": "ABBVIE INC.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/abbvie.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/ABNB.svg": {
     "symbol": "ABNB",
     "name": "Airbnb, Inc.",
     "source": "https://github.com/logoapi/logo-api/blob/main/tickers/ABNB.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ACN.svg": {
+    "symbol": "ACN",
+    "name": "Accenture PLC",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/accenture.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/ADI.svg": {
@@ -20,6 +34,13 @@
     "resolvedVia": "logoapi.sh",
     "source": "https://mediacenter.adp.com/images/logo-adp.svg",
     "license": "UNVERIFIED — served from ADP's own media center, likely a trademark asset, not CC0. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ADSK.svg": {
+    "symbol": "ADSK",
+    "name": "Autodesk, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/autodesk.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/AKAM.svg": {
@@ -71,6 +92,20 @@
     "license": "UNVERIFIED — an earlier structural heuristic mislabelled this CC0; could not confirm against logoapi/logo-api, needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/BA.svg": {
+    "symbol": "BA",
+    "name": "Boeing Company",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/boeing.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/BAC.svg": {
+    "symbol": "BAC",
+    "name": "Bank of America Corporation",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/bankofamerica.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/BALL.svg": {
     "symbol": "BALL",
     "name": "Ball Corporation",
@@ -111,6 +146,13 @@
     "name": "Boston Scientific Corp.",
     "source": "https://www.bostonscientific.com/content/dam/logo-bsc.svg",
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/CAT.svg": {
+    "symbol": "CAT",
+    "name": "Caterpillar Inc.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/caterpillar.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/CBRE.svg": {
@@ -197,11 +239,60 @@
     "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/EXPE.svg": {
+    "symbol": "EXPE",
+    "name": "Expedia Group, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/expedia.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/FDX.svg": {
+    "symbol": "FDX",
+    "name": "FedEx Corporation",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/fedex.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/FFIV.svg": {
+    "symbol": "FFIV",
+    "name": "F5, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/f5.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/FIG.svg": {
     "symbol": "FIG",
     "name": "Figma, Inc.",
     "source": "https://www.figma.com/brand/",
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/FOX.svg": {
+    "symbol": "FOX",
+    "name": "Fox Corporation Class B Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/fox.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/FOXA.svg": {
+    "symbol": "FOXA",
+    "name": "Fox Corporation Class A Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/fox.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/FTNT.svg": {
+    "symbol": "FTNT",
+    "name": "Fortinet, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/fortinet.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/GDDY.svg": {
+    "symbol": "GDDY",
+    "name": "GoDaddy Inc",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/godaddy.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/GEV.svg": {
@@ -225,11 +316,32 @@
     "license": "UNVERIFIED — an earlier structural heuristic mislabelled this CC0; could not confirm against logoapi/logo-api, needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/GRMN.svg": {
+    "symbol": "GRMN",
+    "name": "Garmin Ltd",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/garmin.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/GS.svg": {
+    "symbol": "GS",
+    "name": "Goldman Sachs Group Inc.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/goldmansachs.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/HPE.svg": {
     "symbol": "HPE",
     "name": "Hewlett Packard Enterprise Company",
     "source": "https://commons.wikimedia.org/wiki/File:Hewlett_Packard_Enterprise_logo_2025.svg",
     "license": "UNVERIFIED — check the file's own licence tag on Wikimedia Commons before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/HPQ.svg": {
+    "symbol": "HPQ",
+    "name": "HP Inc.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/hp.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/IBM.svg": {
@@ -253,11 +365,46 @@
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/KO.svg": {
+    "symbol": "KO",
+    "name": "Coca-Cola Company",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/cocacola.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/LUV.svg": {
+    "symbol": "LUV",
+    "name": "Southwest Airlines Co.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/southwestairlines.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/MA.svg": {
     "symbol": "MA",
     "name": "Mastercard Incorporated",
     "source": "https://github.com/logoapi/logo-api/blob/main/tickers/MA.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/MAR.svg": {
+    "symbol": "MAR",
+    "name": "Marriott International Class A Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/marriott.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/MMM.svg": {
+    "symbol": "MMM",
+    "name": "3M Company",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/3m.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/MRK.svg": {
+    "symbol": "MRK",
+    "name": "Merck & Co., Inc.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/merck.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/MU.svg": {
@@ -267,6 +414,20 @@
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/NKE.svg": {
+    "symbol": "NKE",
+    "name": "Nike, Inc.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/nike.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/NTAP.svg": {
+    "symbol": "NTAP",
+    "name": "NetApp, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/netapp.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/ORCL.svg": {
     "symbol": "ORCL",
     "name": "Oracle Corporation",
@@ -274,11 +435,60 @@
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/PANW.svg": {
+    "symbol": "PANW",
+    "name": "Palo Alto Networks, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/paloaltonetworks.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/PAYX.svg": {
+    "symbol": "PAYX",
+    "name": "Paychex, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/paychex.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/QCOM.svg": {
     "symbol": "QCOM",
     "name": "QUALCOMM Incorporated",
     "source": "https://github.com/logoapi/logo-api/blob/main/tickers/QCOM.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/RBLX.svg": {
+    "symbol": "RBLX",
+    "name": "Roblox Corporation",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/roblox.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ROK.svg": {
+    "symbol": "ROK",
+    "name": "Rockwell Automation, Inc.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/rockwellautomation.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/SBUX.svg": {
+    "symbol": "SBUX",
+    "name": "Starbucks Corporation Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/starbucks.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/SHEL.svg": {
+    "symbol": "SHEL",
+    "name": "Shell plc American Depositary Shares (Each represents two Ordinary shares)",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/shell.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/SHOP.svg": {
+    "symbol": "SHOP",
+    "name": "Shopify Inc. Class A subordinate voting shares",
+    "source": "https://github.com/gilbarbara/logos/blob/main/logos/shopify.svg",
+    "license": "CC0 1.0 Universal — confirmed via gilbarbara/logoss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/SKHY.svg": {
@@ -295,11 +505,46 @@
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/SONY.svg": {
+    "symbol": "SONY",
+    "name": "Sony Group Corporation American Depositary Shares (Each Representing One Share of Dollar Validated Common Stock)",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/sony.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/SPOT.svg": {
     "symbol": "SPOT",
     "name": "Spotify Technology S.A.",
     "source": "https://github.com/logoapi/logo-api/blob/main/logos/spotify-icon.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/SYK.svg": {
+    "symbol": "SYK",
+    "name": "Stryker Corporation",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/stryker.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/T.svg": {
+    "symbol": "T",
+    "name": "AT&T Inc.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/atandt.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/TGT.svg": {
+    "symbol": "TGT",
+    "name": "Target Corporation",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/target.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/TRMB.svg": {
+    "symbol": "TRMB",
+    "name": "Trimble Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/trimble.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/TSM.svg": {
@@ -309,11 +554,39 @@
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
+  "stocks/TTWO.svg": {
+    "symbol": "TTWO",
+    "name": "Take-Two Interactive Software, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/taketwointeractivesoftware.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/UAL.svg": {
+    "symbol": "UAL",
+    "name": "United Airlines Holdings, Inc. Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/unitedairlines.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/V.svg": {
     "symbol": "V",
     "name": "Visa Inc.",
     "source": "https://github.com/logoapi/logo-api/blob/main/tickers/V.svg",
     "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/WFC.svg": {
+    "symbol": "WFC",
+    "name": "Wells Fargo & Co.",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/wellsfargo.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ZBRA.svg": {
+    "symbol": "ZBRA",
+    "name": "Zebra Technologies Corporation Class A Common Stock",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/zebratechnologies.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-iconss own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   }
 }

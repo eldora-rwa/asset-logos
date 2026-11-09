@@ -40,6 +40,31 @@ a time against a known-good match (ticker must match exactly) and track the
 source per file in `sources.json` — this keeps the licence status of every
 file auditable instead of becoming an unverifiable pile of images.
 
+## Confirmed-CC0 sources (prefer these over logoapi.sh)
+
+Checked directly against the upstream project's own licence, not scraped
+through a search API:
+
+- [`simple-icons/simple-icons`](https://github.com/simple-icons/simple-icons)
+  — CC0-1.0, ~3,470 brand marks, matched here by exact normalized company
+  name against its `title` field.
+- [`gilbarbara/logos`](https://github.com/gilbarbara/logos) — CC0-1.0,
+  ~2,068 brand marks with a `url` (company domain) per entry; matched by
+  name and by domain-slug guess (`logos.json`'s `url` field), each candidate
+  verified by reading the file's own `<title>` before adding it.
+- [`logoapi/logo-api`](https://github.com/logoapi/logo-api)'s own `tickers/`
+  and `logos/` folders — CC0-1.0 per that repo's `NOTICE` (its `official/`
+  folder is NOT CC0 and explicitly forbids bulk redistribution — never pull
+  from there, and never trust its live search API's result shape as a
+  licence signal, see the postmortem below).
+
+Both `simple-icons` and `gilbarbara/logos` skew toward tech/SaaS brands but
+also carry plenty of large non-tech names (Boeing, Coca-Cola, Goldman Sachs,
+Wells Fargo, FedEx, Target, 3M, ...), which is where most of this repo's
+stock coverage now comes from. Still skews large-cap/consumer-recognizable —
+expect thin coverage for mid-cap industrials, utilities, regional banks, and
+essentially none for ETFs (they have no "brand" to match).
+
 ## Licensing — read before publishing a batch
 
 Logos here were sourced from a mix of origins, tracked per-file in
