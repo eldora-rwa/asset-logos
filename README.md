@@ -64,6 +64,19 @@ Pharmaceuticals). All three were dropped. 18 further candidates (`STT`,
 but their image URLs 403'd on a plain fetch (likely referrer-gated) and were
 left unresolved rather than worked around.
 
+**`financialmodelingprep.com/image-stock/<TICKER>.png` is a public, no-key
+logo endpoint with very high US-ticker coverage** — 628/632 (99%) of the
+Dinari symbols still missing a logo resolved here in one pass. Real 404 for
+an unknown ticker (checked against a made-up symbol); for a ticker it does
+recognise but has no dedicated artwork for, it serves the fund
+sponsor/issuer's own mark instead of the individual fund's (e.g. every
+iShares ETF gets the same small iShares "i" mark) — still a real, correct
+logo, just shared across a family of funds, not a blank placeholder. Every
+file checked during this pass was a real brand mark; none were a generic
+fallback graphic. Not a documented/public API product — no terms could be
+confirmed (ToS page 403'd automated fetches) — so these are tracked
+`UNVERIFIED` same as the Bitget-CDN batch, not CC0.
+
 ## Adding a logo
 
 1. Confirm the licence of whatever you're adding — see "Licensing" below.
