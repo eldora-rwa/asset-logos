@@ -1,4 +1,32 @@
 {
+  "crypto/DASH.svg": {
+    "symbol": "DASH",
+    "name": "Dash",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/dash.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-icons own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/STEEM.svg": {
+    "symbol": "STEEM",
+    "name": "Steem",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/steem.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-icons own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/XMR.svg": {
+    "symbol": "XMR",
+    "name": "Monero",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/monero.svg",
+    "license": "CC-BY-SA-4.0 — this ONE icon overrides simple-icons repo-wide CC0 default (per its own data entry). Redistribution requires attribution + share-alike, NOT a blanket CC0 grant like the rest of this repo.",
+    "fetchedAt": "2026-11-09"
+  },
+  "crypto/ZEC.svg": {
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/zcash.svg",
+    "license": "CC0 1.0 Universal — confirmed via simple-icons own LICENSE (repo-wide CC0-1.0). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
   "stocks/ABBV.svg": {
     "symbol": "ABBV",
     "name": "ABBVIE INC.",

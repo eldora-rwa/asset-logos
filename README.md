@@ -22,7 +22,23 @@ crypto/<SYMBOL>.svg     # Bitget base coins + Hyperliquid coins, e.g. BTC.svg
 Filename = the exact key the app already looks up by (uppercase ticker for
 stocks, uppercase base coin/coin name for crypto). Split into two folders so
 a ticker that happens to collide with a coin symbol never resolves to the
-wrong asset.
+wrong asset — confirmed real, not hypothetical: Bitget lists both a `DASH`
+*stock* (DoorDash, tokenized as its Reality ticker) and an unrelated `DASH`
+*coin* (the Dash cryptocurrency). A resolver that doesn't know which folder
+it's looking in will serve the wrong one.
+
+**Bitget Reality/RWA tokens reuse `stocks/` directly, no separate copy
+needed.** Bitget's Reality catalog tokenizes almost every US-listed ticker
+(3,212 of them, checked 2026-11-09), so any ticker already in `stocks/` —
+whether it got there via Dinari or added for Bitget specifically — already
+answers both. Only add a file under `stocks/` once per ticker.
+
+**Hyperliquid currently has no gap.** Checked every active perp (179) and
+every spot base token with a real market (129) against both of its own live
+logo sources (`app.hyperliquid.xyz/coins/`, then the `spothq/
+cryptocurrency-icons` CDN fallback — see `CoinIcon.tsx`): all 368 resolve.
+Nothing to add here until one of those sources actually goes dark for a
+specific coin.
 
 ## Adding a logo
 
