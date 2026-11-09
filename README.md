@@ -45,22 +45,33 @@ file auditable instead of becoming an unverifiable pile of images.
 Logos here were sourced from a mix of origins, tracked per-file in
 `sources.json`:
 
-- **CC0** (e.g. the `simple-icons`/`gilbarbara` brand-mark style — a single
-  monochrome path, no literal company asset) — safe to redistribute.
-- **Official brand site / media center** — these are the company's own
-  trademark assets. Being free to *embed via a link* (what the aggregator
-  this first batch came from, logoapi.sh, allows) is not the same as being
-  free to *copy and redistribute* from a separate, self-hosted public repo.
-  **Do not treat these as cleared for production** until reviewed.
-- **Wikimedia Commons** — check the individual file's licence tag on Commons;
-  it varies file to file (some are PD-logo / below the threshold of
-  originality, some are not).
+- **CC0** — confirmed by matching the file against
+  [`logoapi/logo-api`](https://github.com/logoapi/logo-api)'s `tickers/` or
+  `logos/` folder, which its `NOTICE` file dedicates to CC0 1.0 Universal.
+  Safe to redistribute. This is the **only** tier that should go in this
+  repo going forward — see below.
+- **Official brand site / media center / Wikimedia** — a company's own
+  trademark asset, or an individually-licensed Commons file. **Not safe to
+  self-host in bulk**: `logoapi/logo-api`'s own `official/` folder (not CC0,
+  separately licensed) says explicitly *"do not redistribute them in bulk as
+  a logo collection"* — the exact thing a repo like this one is. Flagged
+  `UNVERIFIED` in `sources.json`, kept only as a record of what was tried;
+  **do not wire these into the client**, and prefer removing a file once a
+  genuine CC0 equivalent is found for it (see `ABBV`/`ACN`/`BAC`/`GE`, removed
+  after `logoapi/logo-api` confirmed they come from its restricted
+  `official/tickers/`, not `tickers/`).
 
-The first batch (`stocks/ABBV.svg`, `ACN.svg`) is CC0-style and fine. The
-rest of the first batch (`ABNB.svg`, `ADI.svg`, `ADP.svg`, `AKAM.svg`) is
-**unverified** — flagged in `sources.json` — and should not ship to
-production until someone confirms the licence (or they get replaced with a
-CC0-equivalent, e.g. from `simple-icons` directly).
+A structural heuristic used early on ("single flat `<path>`, a `<title>`, no
+embedded raster → CC0") turned out to be **unreliable** — `official/`'s own
+files share that exact shape. Don't use it to infer a licence; only
+`logoapi/logo-api`'s `tickers/`/`logos/` folders (or another source with an
+explicit CC0/public-domain grant) count as confirmed.
+
+`logoapi.sh`'s **search API is capped at 500 requests/day** (separate from
+the "2M requests/month" figure on their homepage, which is for fetching a
+logo you already have the URL for — search is the bottleneck). A batch that
+needs more than ~500 lookups must detect `{"error":"daily_limit"}` and stop
+rather than silently miscounting a rate-limited response as "not found".
 
 All trademarks remain the property of their respective owners. This repo
 exists to display them for Eldora's own product (ticker identification in a

@@ -1,26 +1,9 @@
 {
-  "stocks/ABBV.svg": {
-    "symbol": "ABBV",
-    "name": "AbbVie Inc.",
-    "resolvedVia": "logoapi.sh",
-    "source": "https://www.abbvie.com",
-    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
-    "fetchedAt": "2026-11-09"
-  },
   "stocks/ABNB.svg": {
     "symbol": "ABNB",
     "name": "Airbnb, Inc.",
-    "resolvedVia": "logoapi.sh",
-    "source": "https://www.airbnb.com/",
-    "license": "UNVERIFIED — served from Airbnb's own site, likely a trademark asset, not CC0. Needs legal review before shipping.",
-    "fetchedAt": "2026-11-09"
-  },
-  "stocks/ACN.svg": {
-    "symbol": "ACN",
-    "name": "Accenture PLC",
-    "resolvedVia": "logoapi.sh",
-    "source": "https://www.accenture.com",
-    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/ABNB.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/ADI.svg": {
@@ -42,9 +25,8 @@
   "stocks/AKAM.svg": {
     "symbol": "AKAM",
     "name": "Akamai Technologies, Inc.",
-    "resolvedVia": "logoapi.sh",
-    "source": "https://www.akamai.com/",
-    "license": "UNVERIFIED — served from Akamai's own site, likely a trademark asset, not CC0. Needs legal review before shipping.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/AKAM.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/ALAB.svg": {
@@ -86,14 +68,7 @@
     "symbol": "AZO",
     "name": "AutoZone, Inc.",
     "source": "https://www.autozone.com",
-    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
-    "fetchedAt": "2026-11-09"
-  },
-  "stocks/BAC.svg": {
-    "symbol": "BAC",
-    "name": "Bank of America Corporation",
-    "source": "https://www.bankofamerica.com",
-    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "license": "UNVERIFIED — an earlier structural heuristic mislabelled this CC0; could not confirm against logoapi/logo-api, needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/BALL.svg": {
@@ -176,22 +151,22 @@
   "stocks/CRM.svg": {
     "symbol": "CRM",
     "name": "Salesforce, Inc.",
-    "source": "https://www.salesforce.com/",
-    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/CRM.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/CRWV.svg": {
     "symbol": "CRWV",
-    "name": "CoreWeave, Inc. Class A Common Stock",
-    "source": "https://www.coreweave.com",
-    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "name": "CoreWeave, Inc.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/CRWV.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/DASH.svg": {
     "symbol": "DASH",
     "name": "DoorDash, Inc. Class A Common Stock",
     "source": "https://www.doordash.com/about/",
-    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "license": "UNVERIFIED — an earlier structural heuristic mislabelled this CC0; could not confirm against logoapi/logo-api, needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/DD.svg": {
@@ -203,9 +178,9 @@
   },
   "stocks/DDOG.svg": {
     "symbol": "DDOG",
-    "name": "Datadog, Inc. Class A Common Stock",
-    "source": "https://www.datadoghq.com/",
-    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "name": "Datadog, Inc.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/DDOG.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/DELL.svg": {
@@ -229,13 +204,6 @@
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
-  "stocks/GE.svg": {
-    "symbol": "GE",
-    "name": "GE Aerospace",
-    "source": "https://www.ge.com/brand/",
-    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
-    "fetchedAt": "2026-11-09"
-  },
   "stocks/GEV.svg": {
     "symbol": "GEV",
     "name": "GE Vernova Inc.",
@@ -254,7 +222,7 @@
     "symbol": "GM",
     "name": "General Motors Company",
     "source": "https://www.gm.com",
-    "license": "CC0 (simple-icons/gilbarbara brand-mark style — monochrome path, no company asset scraped)",
+    "license": "UNVERIFIED — an earlier structural heuristic mislabelled this CC0; could not confirm against logoapi/logo-api, needs legal review before shipping.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/HPE.svg": {
@@ -267,15 +235,15 @@
   "stocks/IBM.svg": {
     "symbol": "IBM",
     "name": "International Business Machines Corporation",
-    "source": "https://www.ibm.com/",
-    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/IBM.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/INTC.svg": {
     "symbol": "INTC",
-    "name": "Intel Corporation Common Stock",
-    "source": "https://www.intel.com",
-    "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "name": "Intel Corporation",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/INTC.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   },
   "stocks/INTU.svg": {
@@ -283,6 +251,55 @@
     "name": "Intuit Inc. Common Stock",
     "source": "https://quickbooks.intuit.com/oidam/intuit/ic/en_us/logos/gwp-footer/intuit-rebrand-logo-dark.svg",
     "license": "UNVERIFIED — looks like an official brand-site/trademark asset. Needs legal review before shipping.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/MA.svg": {
+    "symbol": "MA",
+    "name": "Mastercard Incorporated",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/MA.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/MU.svg": {
+    "symbol": "MU",
+    "name": "Micron Technology, Inc.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/MU.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/ORCL.svg": {
+    "symbol": "ORCL",
+    "name": "Oracle Corporation",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/ORCL.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/QCOM.svg": {
+    "symbol": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/QCOM.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/SNOW.svg": {
+    "symbol": "SNOW",
+    "name": "Snowflake Inc.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/SNOW.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/TSM.svg": {
+    "symbol": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/TSM.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
+    "fetchedAt": "2026-11-09"
+  },
+  "stocks/V.svg": {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "source": "https://github.com/logoapi/logo-api/blob/main/tickers/V.svg",
+    "license": "CC0 1.0 Universal — confirmed via logoapi/logo-api NOTICE (logos/ and tickers/ are CC0 1.0 Universal, public domain dedication). Safe to redistribute.",
     "fetchedAt": "2026-11-09"
   }
 }
